@@ -1,0 +1,260 @@
+/*CSS*/
+
+#img img{
+    margin-left:220px;
+    margin-top:30px;
+    width:200px;
+    height:180px;
+}
+#text h1{
+    margin-left:245px;
+    margin-top:-57px
+}
+#text p{
+    margin-left:245px;
+    margin-top:-20px
+}
+#img1 img{
+    width:170px;
+    height:170px;
+    margin-left:245px;
+    margin-top:9px;
+}
+#text1 h2{
+    margin-left:293px;
+    margin-top:3px;
+}
+#img2 img{
+    position:absolute;
+    height:50px;
+    width:50px;
+     margin-top:-170px;
+    margin-left:475px;
+}
+
+#text6 h3{
+    margin-left:450px;
+    margin-top:-43px;
+    color:#07B7F2;
+}
+#text9 form input{
+    position:absolute;
+    margin-top:-300px;
+    height:40px;
+    font-size:20px;
+    border:2px solid blue;
+    margin-left:800px;
+}
+#text0 form input{
+    position:absolute;
+    margin-top:-260px;
+    height:40px;
+    width:408px;
+    font-size:20px;
+    border:2px solid blue;
+    margin-left:800px;
+
+}
+
+#img00 img{
+    position:absolute;
+    margin-top:-200px;
+    height:60px;
+    width:420px;
+    margin-left:800px;
+}
+#text000 h3{
+    position:absolute;
+    margin-top:-124px;
+    margin-left:950px;
+
+}
+
+#text01 h4{
+    position:absolute;
+    margin-top:5px;
+    margin-left:830px;
+}
+
+#menu ul li a{
+    position:absolute;
+    background-color:#05A406;
+    padding:16px;
+    text-decoration:none;
+    font-size:20px;
+    margin-left:890px;
+    text-align:center;
+    margin-top:-95px;
+}
+#signup form input{
+    width:200px;
+    height:33px;
+}
+#img4 img{
+    position:absolute;
+    margin-left:110px;
+}
+#signup{
+    position:absolute;
+    margin-left:600px;
+    margin-top:100px;
+}
+#birthday{
+    position:absolute;
+    margin-left:600px;
+    margin-top:270px;
+    font-size:20px;
+}
+#radio{
+    position:absolute;
+    margin-left:600px;
+    margin-top:330px;
+    font-size:20px;
+    
+
+}
+#text1 p{
+    position:absolute;
+    margin-left:600px;
+    margin-top:390px;
+    font-size:15px;
+}
+#img4 img{
+    position:absolute;
+    margin-left:710px;
+    margin-top:445px;
+    font-size:15px;
+}
+#text2{
+    position:absolute;
+    margin-left:603px;
+    margin-top:5px;
+}
+#imgn img{
+    position:absolute;
+    margin-left:247px;
+    margin-top:220px;
+      width:160px;
+      height:160px;
+}
+#img88 img{
+    position:absolute;
+    margin-left:470px;
+    margin-top:45px;
+    width:50px;
+    height:50px
+}
+#text0 h2{
+     position:absolute; 
+     margin-top:160px;
+     margin-left:299px;
+}
+#text01 h3{
+    position:absolute; 
+     margin-top:160px;
+     margin-left:440px;
+}
+
+#img101 img{
+    position:absolute; 
+     margin-top:30px;
+     margin-left:1200px;
+     width:300px;
+     height:50px;
+}
+#text03 h3{
+    position:absolute;
+     margin-top:90px;
+     margin-left:1290px;
+     
+}
+
+#text90 form input{
+    position:absolute;
+    margin-top:-90px;
+    height:40px;
+    font-size:15px;
+    border:2px solid blue;
+    margin-left:1200px;
+}
+#text09 form input{
+    position:absolute;
+    margin-top:-50px;
+    height:40px;
+    font-size:24.5px;
+    border:2px solid blue;
+    margin-left:1200px;
+}
+#img44 img{
+    position:absolute;
+    margin-top:120px;
+    margin-left:1275px;
+}
+#text82 h4{
+    position:absolute;
+    margin-top:180px;
+    margin-left:1235px;
+}
+
+
+#imgx img{
+    position:absolute;
+    margin-top:-283px;
+    margin-left:253px;
+    width:12px;
+    height:12px;
+}
+#picture img{
+    width:12px;
+    height:12px;
+    position:absolute;
+    margin-top:-23px;
+    margin-left:256px;
+}
+#imga img{
+    position:absolute;
+    margin-top:-293px;
+    margin-left:392px;
+    width:27px;
+    height:27px;
+    border-radius:50px;
+}
+
+#number p{
+    position:absolute;
+    margin-top:-290px;
+    margin-left:397px;
+    color:white;
+}
+#number0 p{
+    position:absolute;
+    margin-top:-31px;
+    margin-left:390px;
+    color:white;
+}
+#imgi img{
+    position:absolute;
+    margin-top:-35px;
+    margin-left:385px;
+    width:27px;
+    height:27px;
+    border-radius:50px;
+}
+
+#button{
+    position:absolute;
+    margin-top:-45px;
+}
+
+#button1{
+    position:absolute;
+    margin-top:-280px;
+}
+
+
+
+
+
+
+
+
